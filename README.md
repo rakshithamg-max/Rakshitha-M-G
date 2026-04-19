@@ -20,3 +20,4 @@ SubstringOccurrenceCounter.java:https://github.com/rakshithamg-max/Rakshitha-M-G
 WhitespaceUtility.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20221316.png
 CapitalizeWordsUtility.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20221802.png
 NumericStringValidator.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20222120.png
+StringTruncator.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20222520.png
