@@ -7,3 +7,4 @@ p4b.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%2
 p5b.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20211512.png
 p1c.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20211738.png
 p2c.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20212010.png
+p3c.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20212245.png
