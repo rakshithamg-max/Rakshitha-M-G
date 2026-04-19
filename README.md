@@ -22,3 +22,4 @@ CapitalizeWordsUtility.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blo
 NumericStringValidator.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20222120.png
 StringTruncator.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20222520.png
 RandomStringGenerator.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20222805.png
+WordCounter.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20223006.png
