@@ -15,3 +15,4 @@ string2.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screensh
 ComprehensiveStringOperations.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20215024.png
 NullOrEmptyValidator.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20215041.png
 PalindromeUtility.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20215928.png
+ReverseStringUtility.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20220206.png
