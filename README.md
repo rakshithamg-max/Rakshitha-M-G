@@ -25,3 +25,4 @@ RandomStringGenerator.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob
 WordCounter.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20223006.png
 CountryButtonHandler.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20223440.png
 SwingHelloMessage.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20224620.png
+ColorTabbedPaneCMY.java:https://github.com/rakshithamg-max/Rakshitha-M-G/blob/main/Screenshot%202026-04-19%20225510.png
