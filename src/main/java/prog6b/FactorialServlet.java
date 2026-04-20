@@ -1,4 +1,4 @@
-//6a. Build a servlet program to find the factorial of a number using HTML with step by step procedure.
+//6b. Build a servlet program to find the factorial of a number using HTML with step by step procedure.
 package prog6b;
 import java.io.IOException;
 import java.io.PrintWriter;
